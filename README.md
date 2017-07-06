@@ -1,5 +1,5 @@
 # AWS KMS CLI
-AWS Security Group Demo code and CLI Commands. Visit www.securitysandman.com or visit secsandman on YouTube to follow along and learn the basics of AWS Security Groups.  CF code snippets, cloud formation templates, and scripts. Enjoy
+AWS KMS CLI Demo code and CLI Commands. Visit www.securitysandman.com or visit secsandman on YouTube to follow along and learn the basics of AWS Security Groups.  CF code snippets, cloud formation templates, and scripts. Enjoy
 
 # Step by Step 
 
